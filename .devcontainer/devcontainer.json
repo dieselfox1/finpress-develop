@@ -1,6 +1,6 @@
 // For format details, see https://aka.ms/devcontainer.json.
 {
-    "name": "WordPress Core Development",
+    "name": "FinPress Core Development",
     "dockerComposeFile": "docker-compose.yml",
     "service": "app",
     "workspaceFolder": "/workspace",
@@ -23,5 +23,5 @@
     "forwardPorts": [
         8080
     ],
-    "remoteUser": "wordpress"
+    "remoteUser": "finpress"
 }
